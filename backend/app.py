@@ -98,6 +98,8 @@ def predict():
 
 
 load_model_files()
-
+# Warm-up: pehli slow predict startup pe hi ho jaye
+model.predict(np.zeros((1, 224, 224, 3), dtype=np.float32), verbose=0)
+print("Warm-up done")
 if __name__ == "__main__":
     app.run(host="127.0.0.1", port=5000, debug=False)
