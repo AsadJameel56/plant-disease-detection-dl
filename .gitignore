@@ -1,0 +1,14 @@
+
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+
+# Python environment
+backend/venv/
+__pycache__/
+*.py[cod]
+
+# Local Python environment folders
+venv/
