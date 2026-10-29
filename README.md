@@ -22,7 +22,8 @@ The dataset is loaded through TensorFlow Datasets using the `plant_village` iden
 
 ## Live Demo
 
-- **Frontend:** https://plant-disease-detection-dl-git-master-zoltex.vercel.app/
+- **Frontend:** [https://plant-disease-detection-dl-git-master-zoltex.vercel.app/]
+- (https://plant-disease-detection-dl.vercel.app/)
 - **Backend API:** https://plant-disease-api-gv2p.onrender.com
 
 Upload a plant-leaf image on the website to test the model prediction.
