@@ -56,10 +56,10 @@ Configure `VITE_API_URL` in `.env` to point to the Flask backend. On Windows Com
 
 ## Project Resources
 
-- **Project Report:** Add the final report link here.
-- **Presentation:** Add the final PPT link here.
-- **YouTube Presentation Video:** Add the uploaded video link here.
-- **LinkedIn Project Post:** Add the published post link here.
+- **Project Report:** [Plant Disease Detection Project Report](https://docs.google.com/document/d/1hNUyQMq8XXssxTp17LvxMt7X4r9TgLfa/edit?usp=sharing)
+- **Presentation:** [Plant Disease Detection PPT](https://docs.google.com/presentation/d/1sd1LpvxZCDEem_ZGeo3-I6hvzTG3FRi_/edit?usp=sharing)
+- **YouTube Presentation Video:** Coming soon
+- **LinkedIn Project Post:** Coming soon
 - **Colab Training Notebook:** https://colab.research.google.com/drive/17rfb4UW7JPYKz23R-Car4oxZlgoh-Y0d
 
 ## Limitations
