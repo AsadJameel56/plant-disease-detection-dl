@@ -97,6 +97,7 @@ def predict():
         }), 500
 
 
+load_model_files()
+
 if __name__ == "__main__":
-    load_model_files()
     app.run(host="127.0.0.1", port=5000, debug=False)
